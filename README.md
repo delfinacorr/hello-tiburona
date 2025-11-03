@@ -1,10 +1,10 @@
-# 🤖 HelloContract – Contrato Soroban
+# 🤖 HelloTiburona – Contrato Soroban
 
-## 💫No temas empezar de nuevo; esta vez no partes desde cero, partes desde la experiencia.💫
+## 💫No temas empezar de nuevo; esta vez no partes desde cero, partes desde la experiencia.
 
 ## 🧱 1. Propósito general
 
-El contrato **HelloContract** tiene como función principal **saludar usuarios** y **llevar contadores de saludos** — tanto **globales como por usuario** — además de **gestionar un administrador (admin)** con privilegios especiales.
+El contrato **HelloTiburona** tiene como función principal **saludar usuarios** y **llevar contadores de saludos** — tanto **globales como por usuario** — además de **gestionar un administrador (admin)** con privilegios especiales.
 
 ### En resumen:
 - Guarda el nombre de quien fue saludado.  
